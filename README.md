@@ -1,1 +1,2 @@
-# CurreyS
+# Currey-S
+FizzBuzz Challenge
